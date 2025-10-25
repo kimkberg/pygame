@@ -46,5 +46,5 @@ TEXT_GROGU = "Kwomiiiii"  # Text displayed when 'G' key is pressed
 # Asset File Paths
 # =============================================================================
 # Note: Update these paths to match your actual image file locations
-HEART_IMAGE_PATH = 'first_pygame/heart.png'  # Path to heart particle image
-FACE_IMAGE_PATH = 'first_pygame/derp.png'  # Path to character face image
+HEART_IMAGE_PATH = 'v1/heart.png'  # Path to heart particle image
+FACE_IMAGE_PATH = 'v1/derp.png'  # Path to character face image

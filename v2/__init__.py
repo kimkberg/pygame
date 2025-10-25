@@ -27,7 +27,10 @@ __all__ = [
     'ParticleCache',
     'BaseParticle',
     'PixelParticle',
-    'HeartParticle'
+    'HeartParticle',
+    'InputHandler',
+    'Renderer',
+    'FireworkManager'
 ]
 
 # Make key classes available at package level
@@ -40,3 +43,6 @@ from .particles import (
     PixelParticle,
     HeartParticle
 )
+from .input_handler import InputHandler
+from .renderer import Renderer
+from .firework_manager import FireworkManager
